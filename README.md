@@ -1,3 +1,16 @@
-Coursera_Machine_Learning_Andrew_Ng
+Machine Learning - Stanford University (Coursera) 
 ================
-This repository contains all the matlab/octave code for the programming projects done in the Machine Learning course taught by Andrew Ng on Coursera.Each folder contains a pdf file which explains the concept and the algorithm to be used for the project.
+
+All projects have been implemented in MATLAB.
+
+In this course, the following projects were implemented:
+
+Neural Network to implement Digit Recognition in MATLAB
+
+Spam Classifier using SVM
+
+Compress an image with K-Means and used PCA to find a low dimensional representation of face images
+
+Applied anomaly detection algorithm to detect failing servers on a network
+
+Used collaborative filtering to implement recommender system for movies
